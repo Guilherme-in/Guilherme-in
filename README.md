@@ -5,7 +5,7 @@
 Sou desenvolvedor backend em formação, finalizando a graduação em Análise e Desenvolvimento de Sistemas e já cursando Pós-Graduação em Engenharia de IA Aplicada.
 
 Meu foco está na construção de sistemas bem estruturados, organizados em camadas e sustentáveis a longo prazo.
-Acredito que código não deve apenas funcionar — ele deve ser claro, escalável e testável.
+Acredito que código não deve apenas funcionar — ele deve ser claro, escalável e de fácil manutenção.
 
 Tenho perfil analítico, disciplinado e orientado à melhoria contínua. Busco evoluir combinando desenvolvimento backend, qualidade de software e aplicação prática de Inteligência Artificial.
 
@@ -17,12 +17,12 @@ Tenho perfil analítico, disciplinado e orientado à melhoria contínua. Busco e
 🎓 Pós-Graduação em Engenharia de IA Aplicada
 (Em andamento)
 
-🧠 Tech Stack
-🔹 Backend & Banco de Dados
-<p align="left"> <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Queries%20%26%20Optimization-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git&logoColor=white"/> </p>
-🔹 Arquitetura & Conceitos
-<p align="left"> <img src="https://img.shields.io/badge/MVC-Architecture-6B7280?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-Object%20Oriented-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Layered%20Structure-Controller%20Service%20DAO-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clean%20Code-Good%20Practices-10B981?style=for-the-badge"/> </p>
-🔎 Qualidade de Software (QA Mindset)
+🧠 Tecnologias e Competências
+🔹 Backend e Banco de Dados
+<p align="left"> <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-Banco%20de%20Dados-blue?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Consultas%20e%20Otimiza%C3%A7%C3%A3o-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-Controle%20de%20Vers%C3%A3o-red?style=for-the-badge&logo=git&logoColor=white"/> </p>
+🔹 Arquitetura e Boas Práticas
+<p align="left"> <img src="https://img.shields.io/badge/MVC-Arquitetura-6B7280?style=for-the-badge"/> <img src="https://img.shields.io/badge/POO-Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Estrutura%20em%20Camadas-Controller%20Service%20DAO-0F172A?style=for-the-badge"/> <img src="https://img.shields.io/badge/C%C3%B3digo%20Limpo-Boas%20Pr%C3%A1ticas-10B981?style=for-the-badge"/> </p>
+🔎 Qualidade de Software
 
 Além do desenvolvimento, aplico princípios de qualidade em tudo que construo:
 
@@ -36,17 +36,17 @@ Identificação de cenários de erro
 
 Prevenção de falhas antes da entrega
 
-Entendo que sistemas robustos nascem da combinação entre boa arquitetura + validação consistente.
+Acredito que sistemas robustos nascem da combinação entre boa arquitetura e validação consistente.
 
 🚀 Atualmente desenvolvendo
 
 Projetos estruturados com padrão MVC
 
-Sistemas integrados a PostgreSQL
+Sistemas integrados ao PostgreSQL
 
 Consolidação de arquitetura backend
 
-Aplicação prática de conceitos de IA
+Aplicação prática de conceitos de Inteligência Artificial
 
 Evolução estratégica entre Backend e Engenharia de IA
 
@@ -65,5 +65,3 @@ Organização antes de complexidade
 Clareza antes de atalhos
 
 Evolução constante
-
-📌 Sempre aberto a aprendizado, colaboração e novos desafios.

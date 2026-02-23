@@ -65,3 +65,5 @@ Organização antes de complexidade
 Clareza antes de atalhos
 
 Evolução constante
+
+⭐ Obrigado pela visita — fique à vontade para explorar meus repositórios!

@@ -1,5 +1,5 @@
-<!-- ===================== --> <!-- 🚀 TYPING ANIMATION --> <!-- ===================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Guilherme+Inacio+Neves;Backend+Developer+in+Formation;AI+Engineering+Postgraduate;Quality+Driven+Development;Java+%7C+PostgreSQL+%7C+MVC+Architecture" /> </p>
-<h2 align="center">👋 Olá, eu sou <strong>Guilherme Inacio Neves</strong></h2> <p align="center"> 💻 Backend Developer • 🧠 AI Engineering • 🔎 Quality Mindset </p>
+<!-- ===================== --> <!-- 🚀 TYPING ANIMATION --> <!-- ===================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Guilherme+Inacio+Neves;Desenvolvedor+Backend+em+Formação;Pós-Graduando+em+Engenharia+de+IA+Aplicada;Desenvolvimento+Orientado+à+Qualidade;Java+%7C+PostgreSQL+%7C+Arquitetura+MVC" /> </p>
+<h2 align="center">👋 Olá, eu sou <strong>Guilherme Inacio Neves</strong></h2> <p align="center"> 💻 Desenvolvedor Backend • 🧠 Engenharia de IA • 🔎 Mentalidade de Qualidade </p>
 🧑‍💻 Sobre mim
 
 Sou desenvolvedor backend em formação, finalizando a graduação em Análise e Desenvolvimento de Sistemas e já cursando Pós-Graduação em Engenharia de IA Aplicada.
@@ -50,8 +50,6 @@ Aplicação prática de conceitos de IA
 
 Evolução estratégica entre Backend e Engenharia de IA
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAMEAQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAMEAQUI&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 🎯 Objetivo Profissional
 
 Consolidar minha atuação como Desenvolvedor Backend, mantendo forte base em qualidade de software e expandindo minha expertise em soluções que envolvam Inteligência Artificial aplicada.

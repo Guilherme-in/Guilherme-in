@@ -1,4 +1,4 @@
-<!-- ===================== --> <!-- 🚀 TYPING ANIMATION --> <!-- ===================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Guilherme+Inacio+Neves;Backend+Developer+in+Formation;AI+Engineering+Postgraduate;Quality+Driven+Development;Java+%7C+PostgreSQL+%7C+MVC+Architecture" /> </p>
+<!-- ===================== --> <!-- 🚀 TYPING ANIMATION --> <!-- ===================== --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Guilherme+Inacio+Neves;Desenvolvedor+Backend+em+Formação;Pós-Graduando+em+Engenharia+de+IA+Aplicada;Desenvolvimento+Orientado+à+Qualidade;Java+%7C+PostgreSQL+%7C+MVC+Architecture" /> </p>
 <h2 align="center">👋 Olá, eu sou <strong>Guilherme Inacio Neves</strong></h2> <p align="center"> 💻 Desenvolvedor Backend • 🧠 Engenharia de IA • 🔎 Mentalidade de Qualidade </p>
 🧑‍💻 Sobre mim
 
